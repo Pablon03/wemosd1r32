@@ -1,1 +1,1 @@
-# wemosd1r32
+# Wemos D1 R32
